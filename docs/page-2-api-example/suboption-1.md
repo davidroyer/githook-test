@@ -1,17 +1,19 @@
----
-description: Subpage for page 1
----
-
 # Suboption 1
 
 {% hint style="info" %}
-This is an info block
+**Info Message**
+
+Provide some important information
 {% endhint %}
 
+{% hint style="danger" %}
+**Danger Message**
 
+Critical information
+{% endhint %}
 
 {% hint style="warning" %}
-Warning message!
+Warning message with different styling!
 {% endhint %}
 
 ### Code Example 1
