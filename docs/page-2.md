@@ -2,6 +2,8 @@
 description: Page 2 description here
 ---
 
+## NEW TO PAGE 2
+
 # API Example
 
 {% api-method method="get" host="https://api.cakes.com" path="/v1/cakes/:id" %}
@@ -67,6 +69,3 @@ Could not find a cake matching this query.
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
-
-
-
