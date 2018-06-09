@@ -2,7 +2,7 @@
 description: Page 2 description here
 ---
 
-# API Example
+# Page 2 - API Example
 
 ## API Example
 
