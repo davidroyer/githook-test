@@ -16,7 +16,9 @@ Critical information
 Warning message with different styling!
 {% endhint %}
 
-### Code Example 1
+### Code Examples
+
+#### Single File
 
 {% code-tabs %}
 {% code-tabs-item title="MainWrapper.vue" %}
@@ -28,15 +30,9 @@ Warning message with different styling!
 </template>
 ```
 {% endcode-tabs-item %}
-
-{% code-tabs-item title=undefined %}
-```
-
-```
-{% endcode-tabs-item %}
 {% endcode-tabs %}
 
-### Code Example 2 - Multiple Files
+#### Multiple Files
 
 {% code-tabs %}
 {% code-tabs-item title="NavLinks.vue" %}
