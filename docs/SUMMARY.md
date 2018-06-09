@@ -6,5 +6,5 @@
   * [Suboption 1](api-example/suboption-1.md)
   * [Suboption 2](api-example/untitled-2.md)
 * [Changelog](untitled-1.md)
-* [Untitled](untitled.md)
+* [Docs Sample](untitled.md)
 

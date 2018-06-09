@@ -1,8 +1,12 @@
-# Untitled
+---
+description: Showing various doc options and formatting
+---
+
+# Docs Sample
+
+### Page Link Example
 
 {% page-ref page="page-1.md" %}
-
-
 
 ### Heading Level 2
 
